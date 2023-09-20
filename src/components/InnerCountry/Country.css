@@ -1,0 +1,9 @@
+.country{
+    margin: 20px;
+    background-color: cadetblue;
+    padding: 8px;
+}
+.country img{
+    width: 150px;
+    height: 85px;
+}
